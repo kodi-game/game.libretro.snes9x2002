@@ -1,1 +1,1 @@
-snes9x2002 https://github.com/libretro/snes9x2002/archive/29db3cf00f552808b3f1dc5d11fcdbbefc659ec4.zip
+snes9x2002 https://github.com/libretro/snes9x2002/archive/8b456289c6c31e1f36df2843f7a6044757b96dbe.zip
