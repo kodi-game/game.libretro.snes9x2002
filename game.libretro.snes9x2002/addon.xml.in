@@ -19,13 +19,13 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Nintendo - SNES / SFC (Snes9x 2002) 7.2.0</summary>
-		<description lang="en_GB">A port of SNES9x 1.39 for libretro. Previously called PocketSNES, this emulator is heavily optimized for ARM.</description>
 		<license>Non-commercial</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.snes9x2002</source>
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="en_GB">Nintendo - SNES / SFC (Snes9x 2002) 7.2.0</summary>
+		<description lang="en_GB">A port of SNES9x 1.39 for libretro. Previously called PocketSNES, this emulator is heavily optimized for ARM.</description>
 	</extension>
 </addon>
