@@ -4,13 +4,21 @@
 # Nintendo - SNES / SFC (Snes9x 2002)
 
 ### Description
+
 A port of SNES9x 1.39 for libretro. Previously called PocketSNES, this emulator is heavily optimized for ARM.
 
 ### License
+
 Non-commercial
 
 ### Icon
 
 ![Icon](game.libretro.snes9x2002/resources/icon.png)
 
+### Fanart
 
+Help make me fanart!
+
+### Screenshots
+
+Help make me screenshots!
