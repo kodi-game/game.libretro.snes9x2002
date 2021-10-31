@@ -21,4 +21,6 @@ Help make me fanart!
 
 ### Screenshots
 
-Help make me screenshots!
+![Screenshot](game.libretro.snes9x2002/resources/screenshot-01.jpg)
+![Screenshot](game.libretro.snes9x2002/resources/screenshot-02.jpg)
+![Screenshot](game.libretro.snes9x2002/resources/screenshot-03.jpg)
