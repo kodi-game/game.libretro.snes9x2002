@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="30000">
+		<setting label="30001" type="select" id="snes9x2002_frameskip" values="disabled|auto|auto_threshold|fixed_interval" default="disabled"/>
+		<setting label="30002" type="select" id="snes9x2002_frameskip_threshold" values="33|15|18|21|24|27|30|36|39|42|45|48|51|54|57|60" default="33"/>
+		<setting label="30003" type="select" id="snes9x2002_frameskip_interval" values="1|0|2|3|4|5|6|7|8|9|10" default="1"/>
+		<setting label="30004" type="select" id="snes9x2002_transparency" values="enabled|disabled" default="enabled"/>
+		<setting label="30005" type="select" id="snes9x2002_low_pass_filter" values="disabled|enabled" default="disabled"/>
+		<setting label="30006" type="select" id="snes9x2002_low_pass_range" values="60|5|10|15|20|25|30|35|40|45|50|55|65|70|75|80|85|90|95" default="60"/>
+		<setting label="30007" type="select" id="snes9x2002_overclock_cycles" values="disabled|compatible|max" default="disabled"/>
+	</category>
+</settings>
