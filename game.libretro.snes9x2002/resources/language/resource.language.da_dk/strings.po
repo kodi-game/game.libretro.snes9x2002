@@ -24,3 +24,35 @@ msgstr ""
 msgctxt "Addon Description"
 msgid "A port of SNES9x 1.39 for libretro. Previously called PocketSNES, this emulator is heavily optimized for ARM."
 msgstr "En port af SNES9x 1.39 til libretro. Tidligere kaldt PocketSNES, er denne emulator stærkt optimeret til ARM."
+
+msgctxt "#30000"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Frameskip"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Frameskip Threshold (%)"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Frameskip Interval"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Transparency Effects"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Audio Filter"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Audio Filter Level"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Reduce Slowdown (Hack, Unsafe, Restart)"
+msgstr ""
