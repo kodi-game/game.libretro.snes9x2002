@@ -13,7 +13,7 @@ Non-commercial
 
 ### Icon
 
-![Icon](game.libretro.snes9x2002/resources/icon.png)
+![Nintendo - SNES / SFC (Snes9x 2002) icon](game.libretro.snes9x2002/resources/icon.png)
 
 ### Fanart
 
@@ -21,6 +21,6 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.snes9x2002/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.snes9x2002/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.snes9x2002/resources/screenshot-03.jpg)
+![Nintendo - SNES / SFC (Snes9x 2002) screenshot](game.libretro.snes9x2002/resources/screenshot-01.jpg)
+![Nintendo - SNES / SFC (Snes9x 2002) screenshot](game.libretro.snes9x2002/resources/screenshot-02.jpg)
+![Nintendo - SNES / SFC (Snes9x 2002) screenshot](game.libretro.snes9x2002/resources/screenshot-03.jpg)
