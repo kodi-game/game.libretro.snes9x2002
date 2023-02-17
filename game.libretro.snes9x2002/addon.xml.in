@@ -31,6 +31,7 @@
 		</assets>
 		<summary lang="en_GB">Nintendo - SNES / SFC (Snes9x 2002) 7.2.0</summary>
 		<description lang="da_DK">En port af SNES9x 1.39 til libretro. Tidligere kaldt PocketSNES, er denne emulator stærkt optimeret til ARM.</description>
+		<description lang="de_DE">Eine Portierung von SNES9x 1.39 für libretro. Früher PocketSNES genannt, ist dieser Emulator sehr stark für ARM optimiert.</description>
 		<description lang="en_GB">A port of SNES9x 1.39 for libretro. Previously called PocketSNES, this emulator is heavily optimized for ARM.</description>
 		<description lang="es_ES">Una adaptación de SNES9x 1.39 para libretro. Anteriormente llamado PocketSNES, este emulador está muy optimizado para ARM.</description>
 		<description lang="fi_FI">SNES9x 1.39 -käännös Libretrolle. Aiemmalta nimeltään PocketSNES, on tämä emulaattori vahvasti ARM-optimoitu.</description>
