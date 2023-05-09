@@ -29,6 +29,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="da_DK">Nintendo - SNES / SFC (Snes9x 2002)</summary>
 		<summary lang="en_GB">Nintendo - SNES / SFC (Snes9x 2002)</summary>
 		<summary lang="es_ES">Nintendo - SNES / SFC (Snes9x 2002)</summary>
 		<description lang="da_DK">En port af SNES9x 1.39 til libretro. Tidligere kaldt PocketSNES, er denne emulator stærkt optimeret til ARM.</description>
