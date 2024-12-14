@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "A port of SNES9x 1.39 for libretro. Previously called PocketSNES, this emulator is heavily optimized for ARM."
 msgstr "用于 libretro 的 SNES9x 1.39 移植。以前称为 PocketSNES，该模拟器针对 ARM 进行了大量优化。"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "Frameskip"
 msgstr "帧跳过"
@@ -56,3 +52,7 @@ msgstr "音频滤波器电平"
 msgctxt "#30007"
 msgid "Reduce Slowdown (Hack, Unsafe, Restart)"
 msgstr "减少减速（Hack、不安全、重新启动）"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"

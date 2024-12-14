@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "A port of SNES9x 1.39 for libretro. Previously called PocketSNES, this emulator is heavily optimized for ARM."
 msgstr "Pristanišče SNES9x 1.39 za libretro. Ta emulator, ki se je prej imenoval PocketSNES, je močno optimiziran za ARM."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Nastavitve"
-
 msgctxt "#30001"
 msgid "Frameskip"
 msgstr "Preskakovanje okvirja"
@@ -56,3 +52,7 @@ msgstr "Raven zvočnega filtra"
 msgctxt "#30007"
 msgid "Reduce Slowdown (Hack, Unsafe, Restart)"
 msgstr "Zmanjšajte upočasnitev (vdor, nevarno, ponovni zagon)"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Nastavitve"
